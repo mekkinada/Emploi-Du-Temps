@@ -1,0 +1,2 @@
+# Emploi-Du-Temps
+Le but de l'application logicielle est de proposer une solution horaire possible avec le minimum de conflits entre créneaux. Il soulage l'utilisateur d'une grande partie du travail acharné requis pour générer manuellement un horaire, lui laissant plus de temps pour appliquer les compétences et le jugement là où ils sont nécessaires afin de produire un horaire de la plus haute qualité.
