@@ -1,5 +1,5 @@
 # Emploi-Du-Temps
-# emploi de temps
+
 
 An automated Time-Table Generator.
 
