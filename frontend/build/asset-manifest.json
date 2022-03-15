@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8599a5e2.chunk.css",
+    "main.js": "/static/js/main.bae41ed4.chunk.js",
+    "main.js.map": "/static/js/main.bae41ed4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/js/2.df5389f6.chunk.js": "/static/js/2.df5389f6.chunk.js",
+    "static/js/2.df5389f6.chunk.js.map": "/static/js/2.df5389f6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2a8f673f30a43f4e1d356b3aa820a3c7.js": "/precache-manifest.2a8f673f30a43f4e1d356b3aa820a3c7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8599a5e2.chunk.css.map": "/static/css/main.8599a5e2.chunk.css.map",
+    "static/js/2.df5389f6.chunk.js.LICENSE.txt": "/static/js/2.df5389f6.chunk.js.LICENSE.txt",
+    "static/media/user.scss": "/static/media/blue-background.8a2b6261.jpg",
+    "static/media/clock-illustration.png": "/static/media/clock-illustration.3abefe5b.png",
+    "static/media/graduate-illustration.png": "/static/media/graduate-illustration.35f3706a.png",
+    "static/media/homepage.scss": "/static/media/home-background.a60c71e7.png",
+    "static/media/logo.svg": "/static/media/logo.736fbe16.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/js/2.df5389f6.chunk.js",
+    "static/css/main.8599a5e2.chunk.css",
+    "static/js/main.bae41ed4.chunk.js"
+  ]
+}
